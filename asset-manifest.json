@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-react/static/css/main.65328da8.chunk.css",
+    "main.js": "/rick-and-morty-react/static/js/main.072ad805.chunk.js",
+    "main.js.map": "/rick-and-morty-react/static/js/main.072ad805.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-react/static/js/runtime-main.474bc83c.js",
+    "runtime-main.js.map": "/rick-and-morty-react/static/js/runtime-main.474bc83c.js.map",
+    "static/js/2.6ea4bf9a.chunk.js": "/rick-and-morty-react/static/js/2.6ea4bf9a.chunk.js",
+    "static/js/2.6ea4bf9a.chunk.js.map": "/rick-and-morty-react/static/js/2.6ea4bf9a.chunk.js.map",
+    "index.html": "/rick-and-morty-react/index.html",
+    "precache-manifest.908a32838e9f35c6c9f20dc4776ab1e5.js": "/rick-and-morty-react/precache-manifest.908a32838e9f35c6c9f20dc4776ab1e5.js",
+    "service-worker.js": "/rick-and-morty-react/service-worker.js",
+    "static/css/main.65328da8.chunk.css.map": "/rick-and-morty-react/static/css/main.65328da8.chunk.css.map",
+    "static/js/2.6ea4bf9a.chunk.js.LICENSE.txt": "/rick-and-morty-react/static/js/2.6ea4bf9a.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/rick-and-morty-react/static/media/arrow.4b713cfe.svg",
+    "static/media/coding.svg": "/rick-and-morty-react/static/media/coding.ee1fc1ed.svg",
+    "static/media/github.svg": "/rick-and-morty-react/static/media/github.1f33e75d.svg",
+    "static/media/instagram.svg": "/rick-and-morty-react/static/media/instagram.bb026c4d.svg",
+    "static/media/left-arrow.svg": "/rick-and-morty-react/static/media/left-arrow.77c86913.svg",
+    "static/media/portal.png": "/rick-and-morty-react/static/media/portal.59605127.png",
+    "static/media/rym-logo.png": "/rick-and-morty-react/static/media/rym-logo.efd2d130.png",
+    "static/media/twitter.svg": "/rick-and-morty-react/static/media/twitter.7e145c9e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.474bc83c.js",
+    "static/js/2.6ea4bf9a.chunk.js",
+    "static/css/main.65328da8.chunk.css",
+    "static/js/main.072ad805.chunk.js"
+  ]
+}
